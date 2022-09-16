@@ -677,7 +677,7 @@
        
       }
       duplicates();
-
+      
     ?>
   </body>
 </html>
